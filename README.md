@@ -8,8 +8,8 @@ Does an ImageNet-pretrained ViT-S/16 classify land use better when it sees all 1
  
 | Name | Email |
 |---|---|
+| Sachiththa Konara Mudiyanselage | sachiththa.konara-mudiyanselage@edu.dsti.institute, sacume3@gmail.com |
 | Naro Couch | naro.kuoch@edu.dsti.institute |
-| Sachiththa Konara Mudiyanselage | sacume@gmailcom |
 | Yani Lala | yani.lala@edu.dsti.institute |
  
 ## Repository contents
